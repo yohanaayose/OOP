@@ -1,0 +1,6 @@
+C:\Users\Dococole\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.exe.config
+C:\Users\Dococole\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+C:\Users\Dococole\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+C:\Users\Dococole\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.exe
+C:\Users\Dococole\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.pdb
+C:\Users\Dococole\Documents\Visual Studio 2015\Projects\Tugas1\Tugas1\obj\Debug\Tugas1.csprojResolveAssemblyReference.cache
